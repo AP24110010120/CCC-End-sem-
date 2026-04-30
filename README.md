@@ -48,7 +48,7 @@ For each new connection:
 New request is assigned to **S2** because it has the least load.
 
 ## Contributors
-
+- AYAN CHANGDAR(AP24110010120) 
 - ARPAN PRAMANIK (AP24110010163)  
 - RAMAYANAPU JAGATH (AP24110010224)  
 - MRUTYUNJAY MANAS (AP24110010101)  
